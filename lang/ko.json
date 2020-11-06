@@ -186,7 +186,6 @@
   "TxClaimRewardNotice": "현재 공급중인 유동성 토큰을 풀에서 출금하지 않고, 분배된 보상만 수령합니다. 트랜잭션 완료 후 지갑에서 보상을 확인할 수 있습니다.",
   "TokenForDeposit": "예치 토큰",
   "ReturnLiquidityToken": "반환 토큰",
-  "Row: 190": "풀 분배보상",
   "Action": "유형",
   "Date": "일시",
   "Status": "상태",
