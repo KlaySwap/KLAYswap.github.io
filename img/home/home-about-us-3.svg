@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="147" height="83" viewBox="0 0 147 83">
+    <defs>
+        <linearGradient id="izzdp6zlcb" x1="-14.414%" x2="119.973%" y1="50%" y2="50%">
+            <stop offset="0%" stop-color="#B39C7D"/>
+            <stop offset="47.574%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#B39C7D"/>
+        </linearGradient>
+        <linearGradient id="4niclkfz0c" x1="-15.016%" x2="115.363%" y1="50%" y2="50%">
+            <stop offset="0%" stop-color="#B39C7D"/>
+            <stop offset="48.604%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#B39C7D"/>
+        </linearGradient>
+        <linearGradient id="8z8mephjid" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FAC88E"/>
+            <stop offset="100%" stop-color="#F39755"/>
+        </linearGradient>
+        <linearGradient id="nodavgnnzg" x1="100%" x2="0%" y1="50%" y2="-64.99%">
+            <stop offset="0%" stop-color="#FAC88E"/>
+            <stop offset="100%" stop-color="#F39755"/>
+        </linearGradient>
+        <linearGradient id="c01sala7mh" x1="0%" x2="100%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#FAC88E"/>
+            <stop offset="100%" stop-color="#FFE1CC"/>
+        </linearGradient>
+        <filter id="8coqr10ntf" width="181.2%" height="181.2%" x="-40.6%" y="-40.6%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <circle id="3y5nfgotxa" cx="40" cy="40" r="40"/>
+        <mask id="5m3ogoa80e" width="80" height="80" x="0" y="0" fill="#fff" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox">
+            <use xlink:href="#3y5nfgotxa"/>
+        </mask>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-1046 -1046) translate(1046 1046)">
+                <g transform="translate(35 3)">
+                    <path fill="url(#izzdp6zlcb)" fill-rule="nonzero" d="M15.626 15.626c-4.127 4.127 3.636 18.155 17.115 31.633l.809.802C46.776 61.044 60.33 68.42 64.374 64.374c4.127-4.127-3.636-18.155-17.115-31.633l-.809-.802C33.224 18.956 19.67 11.58 15.626 15.626zm30.926 17.822C59.606 46.5 67.168 60.166 63.667 63.667c-3.466 3.466-16.893-3.91-29.828-16.725l-.391-.39C20.394 33.5 12.832 19.834 16.333 16.333c3.466-3.466 16.893 3.91 29.828 16.725l.391.39z"/>
+                    <path fill="url(#4niclkfz0c)" fill-rule="nonzero" d="M32.74 32.74l-.801.81C18.956 46.776 11.58 60.33 15.626 64.374c4.127 4.127 18.155-3.636 31.633-17.115l.802-.809C61.044 33.224 68.42 19.67 64.374 15.626c-4.127-4.127-18.155 3.636-31.633 17.115zm30.927-16.407c3.466 3.466-3.91 16.893-16.725 29.828l-.39.391C33.5 59.606 19.834 67.168 16.333 63.667c-3.466-3.466 3.91-16.893 16.725-29.828l.39-.391C46.5 20.394 60.166 12.832 63.667 16.333z"/>
+                    <use stroke="url(#8z8mephjid)" stroke-dasharray="1 2" stroke-width="12" mask="url(#5m3ogoa80e)" xlink:href="#3y5nfgotxa"/>
+                    <circle cx="38" cy="33" r="6" fill="#B39C7D"/>
+                    <path fill="#B39C7D" d="M48 51c0-5.523-4.477-10-10-10s-10 4.477-10 10"/>
+                    <g filter="url(#8coqr10ntf)" transform="translate(43 38)">
+                        <circle cx="8" cy="8" r="8" fill="#FFF"/>
+                        <path stroke="#F39755" stroke-linecap="round" stroke-width="2" d="M6 9L6 5 11 5" transform="scale(1 -1) rotate(45 25.4 0)"/>
+                    </g>
+                </g>
+                <circle cx="112" cy="4" r="4" fill="url(#nodavgnnzg)"/>
+                <circle cx="22" cy="66" r="3" fill="url(#c01sala7mh)"/>
+                <circle cx="126" cy="18" r="3" fill="url(#c01sala7mh)"/>
+                <circle cx="145" cy="81" r="2" fill="url(#c01sala7mh)"/>
+                <circle cx="2" cy="41" r="2" fill="url(#c01sala7mh)"/>
+            </g>
+        </g>
+    </g>
+</svg>
