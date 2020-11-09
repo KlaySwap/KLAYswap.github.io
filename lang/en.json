@@ -196,5 +196,12 @@
   "Row: 197": "See Mining Policy",
   "Row: 198": "Get K-bridge assets",
   "Row: 199": "Get SKLAY",
-  "NoticeAboutInitApp": "Checking network status..."
+  "NoticeAboutInitApp": "Checking network status...",
+  "Row: 201": "The estimated exchange rate (price) for the requested transaction quantity may differ from the current rate. The higher the transaction volume (size), the greater the change of the pool, resulting in a bigger difference. Please make sure to check the difference between the expected and current rates before trading.",
+  "Row: 202": "1.00 % ~ 5.00 % : Optimum",
+  "Row: 203": "5.00 % ~ 10.00 % : Normal",
+  "Row: 204": "Over 10.00 % : Caution",
+  "Row: 205": "Difference from Current Rate: <{num}%",
+  "Row: 206": "Difference from Current Rate: <span>{num}%</span>",
+  "Row: 207": "거래 후 예상 현황으로, 실제 값과 차이가 발생할 수 있습니다."
 }
