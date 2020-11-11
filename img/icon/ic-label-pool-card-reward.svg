@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="74" viewBox="0 0 48 74">
+    <defs>
+        <linearGradient id="qjk4xcsbbb" x1="50%" x2="50%" y1="0%" y2="100%">
+            <stop offset="0%" stop-color="#F39755"/>
+            <stop offset="100%" stop-color="#FAC88E"/>
+        </linearGradient>
+        <filter id="u03umgeg9a" width="104.3%" height="110%" x="-2.1%" y="-5%" filterUnits="objectBoundingBox">
+            <feOffset dy="2" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="2"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.05 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g filter="url(#u03umgeg9a)" transform="translate(-1243 -489) translate(760 491)">
+                    <g>
+                        <path fill="#F39755" d="M0 0h40v46c0 11.046-8.954 20-20 20S0 57.046 0 46V0z" transform="translate(487)"/>
+                        <path fill="url(#qjk4xcsbbb)" d="M20 66C8.954 66 0 57.046 0 46V0h20v66z" transform="translate(487)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
