@@ -117,7 +117,7 @@
   "SwapFeeNotice": "Swap 거래 시 발생하는 수수료는 KLAYswap 의 유동성 공급 기여자에게 분배됩니다. 현재 풀 별 수수료는 {fee}%로 동일하며, 계산되는 수수료는 최종 토큰 교환을 위해 거친 모든 풀의 수수료 합산 값입니다.",
   "SwapRoute": "교환 경로",
   "LiquidityMiningNotice": "토큰 페어 예치 시 그에 상응하는 유동성 풀 토큰(LP)을 획득하며, 전체 풀 대비 지분율에 따라 자동으로 KSP와 해당 풀에서 발생한 수수료 보상이 분배됩니다.",
-  "AboutEstimatedPoolSubInfo": "예치 또는 출금 후 예상 현황으로, 모두 실시간 예상 내역이므로 실제 값과의 차이가 발생할 수 있습니다",
+  "AboutEstimatedPoolSubInfo": "예치 또는 출금 후 예상 현황으로, 실제 값과 차이가 발생할 수 있습니다.",
   "InsufficientKspBalance": "지갑에 보유한 KSP 수량이 부족합니다.",
   "Setting": "설정",
   "Fee": "수수료",
@@ -197,5 +197,7 @@
   "SwapRateRangeGood": "1.00 % ~ 5.00 % : 최적",
   "SwapRateRangeNormal": "5.00 % ~ 10.00 % : 적정",
   "SwapRateRangeRisky": "10.00 % 초과 : 유의",
-  "NoticeAboutTimeRange": "24시간 기준은 전일 09:00am ~ 당일 09:00am (UTC+9)"
+  "NoticeAboutTimeRange": " ",
+  "Close": "닫기",
+  "DisableSocketRetry": "네트워크 상태가 불안정해 정확한 데이터를 받아올 수 없습니다. 페이지를 새로고침해주세요."
 }

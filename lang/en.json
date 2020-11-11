@@ -117,7 +117,7 @@
   "SwapFeeNotice": "Fees incurred in a swap transaction are distributed to KLAYswap's liquidity providers. Currently, the fee per pool is the same at {fee}%. This fee is calculated as the agregate of the fees of all pools that went through for the final token exchange.",
   "SwapRoute": "Swap Route",
   "LiquidityMiningNotice": "You will get a Liquidity Provider (LP) tokens when a token pair is deposited, and KSP commission compensation incurred from the pool is automatically distributed by share of pool.",
-  "AboutEstimatedPoolSubInfo": "This is the expected status after deposit or withdrawal. Since these are real-time predictions, there may be a difference from the actual value.",
+  "AboutEstimatedPoolSubInfo": "The actual value may differ from the estimated value due to changes in status after deposit or withdrawal.",
   "InsufficientKspBalance": "Insufficient KSP Balance",
   "Setting": "Settings",
   "Fee": "Fee ",
@@ -191,11 +191,13 @@
   "GetStakingToken": "Get SKLAY",
   "NoticeAboutInitApp": "Checking network status...",
   "TooltipAboutSwapExchangeRate": "The estimated exchange rate (price) for the requested transaction quantity may differ from the current rate. The higher the transaction volume (size), the greater the change of the pool, resulting in a bigger difference. Please make sure to check the difference between the expected and current rates before trading.",
-  "AboutEstimatedSwapSubInfo": "거래 후 예상 현황으로, 실제 값과 차이가 발생할 수 있습니다.",
+  "AboutEstimatedSwapSubInfo": "The actual value may differ from the estimated value due to conditions after trading.",
   "DiffFromCurrentRate": "Difference from Current Rate",
-  "RecentUpdatedAt": "최신 업데이트",
+  "RecentUpdatedAt": "Latest Update",
   "SwapRateRangeGood": "1.00 % ~ 5.00 % : Optimum",
   "SwapRateRangeNormal": "5.00 % ~ 10.00 % : Normal",
   "SwapRateRangeRisky": "Over 10.00 % : Caution",
-  "NoticeAboutTimeRange": "*The 24 hour period is from 09:00 AM on the previous day to 09:00 AM (UTC+9) on the current day."
+  "NoticeAboutTimeRange": " ",
+  "Close": "Close",
+  "DisableSocketRetry": "네트워크 상태가 불안정해 정확한 데이터를 받아올 수 없습니다. 페이지를 새로고침해주세요."
 }
