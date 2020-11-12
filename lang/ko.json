@@ -95,7 +95,7 @@
   "LiquidityWithdraw": "유동성 반환 및 수령",
   "LiquidityWithdrawNotice": "보유중인 유동성 풀 토큰(LP)을 반환하여 각각의 토큰과 분배된 KSP 보상을 함께 지갑으로 수령합니다. KSP 보상 수령만 원하는 경우, 상단의 Claim 버튼을 이용해주세요.",
   "MiningRewardNoticeAboutMe": "각 유동성 풀 분배보상 수량을 기준으로, 현재 내 지분율 적용 시 예상 분배 보상 수량입니다. 예상 수치로 실제 지급내역과 차이가 발생할 수 있습니다.",
-  "ClaimOnPoolNotice": "유동성 풀 토큰(LP) 밸런스 변동으로 인해  현재까지 분배된 \n보상을 자동으로 지갑으로 수령합니다.",
+  "ClaimOnPoolNotice": "유동성 풀 토큰(LP) 밸런스 변동으로 인해  현재까지 분배된 보상을 자동으로 지갑으로 수령합니다.",
   "InitialConvertRateNotice": "유동성 풀 등록 시 최초로 예치된 토큰 비율에 따라 초기 토큰 가격이 설정됩니다. ",
   "ListingFeeNotice": "유동성 풀 등록 시 지갑에 보유한 {listingFee} KSP 를 수수료로 지불해야 합니다.",
   "AccruedReward": "누적 보상",

@@ -114,7 +114,7 @@
   "PairInformation": "Pair Information",
   "MinOutputNotice": "Assets (To) received after trading may differ by up to {slippage}% from the expected quantity due to real-time exchange rate (price) fluctuations. If it is less than the minimum trading volume, the swap will not proceed.",
   "MaxInputNotice": "Assets (from) sending for trading may differ by up to {slippage}% from the expeced quantity due to real-time exchange rate(price) fluctuations. If it is more than the maximum sending volume, the swap will not proceed.",
-  "SwapFeeNotice": "Fees incurred in a swap transaction are distributed to KLAYswap's liquidity providers. Currently, the fee per pool is the same at {fee}%. This fee is calculated as the agregate of the fees of all pools that went through for the final token exchange.",
+  "SwapFeeNotice": "Fees incurred in a swap transaction are distributed to KLAYswap's liquidity providers. Currently, the fee per pool is the same at {fee}%. This fee is calculated as the aggregate of the fees of all pools that went through for the final token exchange.",
   "SwapRoute": "Swap Route",
   "LiquidityMiningNotice": "You will get a Liquidity Provider (LP) tokens when a token pair is deposited, and KSP commission compensation incurred from the pool is automatically distributed by share of pool.",
   "AboutEstimatedPoolSubInfo": "The actual value may differ from the estimated value due to changes in status after deposit or withdrawal.",
