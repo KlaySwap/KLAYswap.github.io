@@ -197,5 +197,6 @@
   "SwapRateRangeRisky": "Over 10.00 % : Caution",
   "NoticeAboutTimeRange": " ",
   "Close": "Close",
-  "DisableSocketRetry": "네트워크 상태가 불안정해 정확한 데이터를 받아올 수 없습니다. 페이지를 새로고침해주세요."
+  "DisableSocketRetry": "네트워크 상태가 불안정해 정확한 데이터를 받아올 수 없습니다. 페이지를 새로고침해주세요.",
+  "TxTitleSwap": "Swap"
 }
