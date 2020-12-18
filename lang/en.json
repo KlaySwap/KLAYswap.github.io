@@ -253,7 +253,7 @@
   "SupporterPoolDepositNotice2": "After the waiting period is over, you can receive assets to your wallet through 'Withdrawal Complete'.",
   "KlipWeb2AppStep1": "KakaoTalk app > More > Code Scan",
   "KlipWeb2AppStep2": "Klip > Side Menu (Left) > Code Scan",
-  "RemainMinute": " <span>{minute}min(s) {second}sec(s)</span> remaining",
+  "RemainMinute": "Time Remaining: <span>{minute} min {second} sec</span>",
   "ClaimAsset": "Retrieve Asset",
   "AboutYieldStatusTitle": "The yearly KSP reward amount and APY of a $1000 deposit, based on the liquidity size of the pool and daily KSP reward amount. ",
   "AboutYieldStatusDesc1": "<strong>1. KSP Reward Amount</strong></br>\nLiquidity Providers receive daily KSP token rewards proportional to their share of the pool. ",
