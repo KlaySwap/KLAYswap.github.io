@@ -31,7 +31,7 @@
   "SwapAddressInputLabel": "전송 주소",
   "AccessWallet": "지갑 연결",
   "TokenSearchLabel": "코인명, 심볼, 토큰주소 검색",
-  "NotFound": "",
+  "NotFound": "결과가 없습니다.",
   "HourToShort": "시",
   "MinuteToShort": "분",
   "SecondToShort": "초",
