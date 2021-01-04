@@ -152,7 +152,7 @@
   "NodeStatusIsFine": "The Klaytn network is </span> working <span> normally",
   "NodeHasError": "The Klaytn network <span> is </span> unstable.",
   "NodeHasLatency": "Reflection on the Klaytn nework is delayed.",
-  "NoticeAboutNodeError": "KLAYswap is a Klaytn network-based service. If the Klaytn node is unstable or has delays recording blocks, use may be temporarily delayed until the network error is resolved.",
+  "NoticeAboutNodeError": "KLAYswap is a Klaytn network-based service. If block synchronization is experiencing delays, use of the site may be temporarily limited.",
   "KlaytnNetwork": "Klaytn Network",
   "SearchRouteProgress": "Searching for a route",
   "Row: 159": "KLAYswap",

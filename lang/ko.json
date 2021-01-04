@@ -152,7 +152,7 @@
   "NodeStatusIsFine": "클레이튼 네트워크가 <span>정상</span> 동작하고 있습니다.",
   "NodeHasError": "클레이튼 네트워크가 <span>불안정</span> 합니다.",
   "NodeHasLatency": "클레이튼 네트워크 반영이 <span>지연</span>되고 있습니다.",
-  "NoticeAboutNodeError": "클레이 스왑은 클레이튼 네트워크 기반 서비스로, 클레이튼 노드 불안정 또는 블록 반영 지연 시 네트워크 상의 오류 해결 전까지 일시적으로 이용이 지연될 수 있습니다.  ",
+  "NoticeAboutNodeError": "클레이 스왑은 클레이튼 네트워크 기반 서비스로, 블록 동기화 지연 시 일시적으로 사이트 이용이 어려울 수 있습니다.  ",
   "KlaytnNetwork": "클레이튼 네트워크",
   "SearchRouteProgress": "경로 탐색 중",
   "Row: 159": "KLAYswap",
