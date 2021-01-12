@@ -258,5 +258,6 @@
   "AboutYieldStatusTitle": "The yearly KSP reward amount and APY of a $1000 deposit, based on the liquidity size of the pool and daily KSP reward amount. ",
   "AboutYieldStatusDesc1": "<strong>1. KSP Reward Amount</strong></br>\nLiquidity Providers receive daily KSP token rewards proportional to their share of the pool. ",
   "AboutYieldStatusDesc2": "<strong>2. Transaction Fee Rewards Rate(%)</strong></br>\nFees incurred in Swap transactions in a pool are distributed to KLAYswap's liquidity providers in  proportion to their share of the pool. The reward amount is automatically added to your deposited assets and can be freely withdrawn at any time. ",
-  "AboutYieldStatusDesc3": "<strong>3. Staking Rewards Rate(%)</strong></br>\n For single-sided KLAY deposits, a portion of the KLAY (50%) is staked and converted to SKLAY through smart contracts before depositing into the pool. Currently, KLAYstation staking rewards are applied to half the deposited KLAY and distributed to your account."
+  "AboutYieldStatusDesc3": "<strong>3. Staking Rewards Rate(%)</strong></br>\n For single-sided KLAY deposits, a portion of the KLAY (50%) is staked and converted to SKLAY through smart contracts before depositing into the pool. Currently, KLAYstation staking rewards are applied to half the deposited KLAY and distributed to your account.",
+  "Row: 264": "<strong>*Not estimated</strong></br> \nBecause of an inability to measure the price of a token in this liquidity pool, related figures and rewards rates cannot be estimated at this time. "
 }

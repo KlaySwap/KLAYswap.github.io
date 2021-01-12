@@ -258,5 +258,6 @@
   "AboutYieldStatusTitle": "풀의 예치규모와 풀에 분배되는 1일 KSP 수량을 기준으로 $1,000 유동성 공급 시 연간 분배되는 KSP 수량과 추가 수익률(APY)을 의미합니다.",
   "AboutYieldStatusDesc1": "<strong>1. KSP 분배 수량</strong></br>\n유동성 공급자는 풀에 분배되는 1일 KSP 수량에서 각자의 예치 지분율에 따라 KSP를 분배 받습니다.",
   "AboutYieldStatusDesc2": "<strong>2. 거래 수수료 분배 수익률(%)</strong></br>\n풀에서 발생한 거래(Swap) 수수료는 자동으로 풀에 누적되며, 풀의 유동성 공급자는 각자의 예치 지분율에 따라 수수료를 분배 받습니다. 분배된 수수료는 내 예치자산 수량에 자동으로 포함되며, 자유롭게 출금이 가능합니다.",
-  "AboutYieldStatusDesc3": "<strong>3. 스테이킹 보상 수익률(%)</strong></br>\nKLAY 단일 예치는 자동화된 스마트 컨트랙트를 통해 예치를 신청한 KLAY 중 일부(약 50%)를 스테이킹하여 SKLAY로 전환한 후 풀에 예치하므로, 현재 Klaystation의 스테이킹 수익률의 절반에 해당하는 추가 수익을 분배 받습니다."
+  "AboutYieldStatusDesc3": "<strong>3. 스테이킹 보상 수익률(%)</strong></br>\nKLAY 단일 예치는 자동화된 스마트 컨트랙트를 통해 예치를 신청한 KLAY 중 일부(약 50%)를 스테이킹하여 SKLAY로 전환한 후 풀에 예치하므로, 현재 Klaystation의 스테이킹 수익률의 절반에 해당하는 추가 수익을 분배 받습니다.",
+  "Row: 264": "<strong>*Not estimated</strong></br> \n해당 유동성 풀에 포함된 토큰 가격 측정 불가로 인해 관련 수치 및 \n유효한 수익률 파악이 불가능한 경우를 의미합니다."
 }
