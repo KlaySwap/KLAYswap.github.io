@@ -70,7 +70,7 @@
   "AboutClaim": "유동성 공급을 통한 풀 기여자는 각 풀의 지분율에 따라 KSP 보상을 분배 받습니다.",
   "AvailClaim": "수령 가능",
   "Accrued": "누적",
-  "TotalMiningOfPool": "1일 풀 분배수량",
+  "TotalMiningOfPool": "1일 풀 분배 수량",
   "EstimatedYearlyReward": "$1,000 당 연간 예상 수익",
   "AddPool": "유동성 풀 추가",
   "AvailClaimNotice": "아직 지갑으로 수령하지 않은 KSP 보상으로, 각 풀 상세화면으로 이동하여 Claim 시 수령할 수 있습니다.\n첫 반감기(2022년)전까지 분배되는 보상은 개발 커미션(15%)이 제외된 수량입니다. ",
@@ -128,7 +128,7 @@
   "AboutTradeVolume": "해당 풀에서 최근 24시간 동안 발생한 거래 규모",
   "AboutTradeFee": "해당 풀에서 최근 24시간 동안 발생한 거래로 인한 수수료",
   "AboutRewardToKsp": "각 풀 배분율에 따라 해당 풀에 분배된 1일 총 KSP 보상 수량",
-  "AboutRewardsByFee": "각 풀 배분율에 따라 해당 풀에 분배된 1일 총 KSP 보상 수량과 해당 풀에서 24시간동안 발생한 수수료 기준으로 계산된 연간 수수료 이율",
+  "AboutRewardsByFee": "각 풀 배분율에 따라 해당 풀에 분배된 1일 총 KSP 수량을 기준으로 계산된 연간 수익률과 해당 풀에서 24시간동안 발생한 거래 수수료 기준으로 계산된 연간 수익률",
   "TxSubmitClaim": "수령하기",
   "TxSubmitApprove": "승인하기",
   "TxSubmitCreatePool": "등록하기",
@@ -256,8 +256,10 @@
   "RemainMinute": "남은시간 <span>{minute}분{second}초</span>",
   "ClaimAsset": "자산 수령",
   "AboutYieldStatusTitle": "풀의 예치규모와 풀에 분배되는 1일 KSP 수량을 기준으로 $1,000 유동성 공급 시 연간 분배되는 KSP 수량과 추가 수익률(APY)을 의미합니다.",
-  "AboutYieldStatusDesc1": "<strong>1. KSP 분배 수량</strong></br>\n유동성 공급자는 풀에 분배되는 1일 KSP 수량에서 각자의 예치 지분율에 따라 KSP를 분배 받습니다.",
+  "AboutYieldStatusDesc1": "<strong>1. KSP 분배 수익률(%)</strong></br>\n유동성 공급자는 풀에 분배되는 1일 KSP 수량에서 각자의 예치 지분율에 따라 KSP를 분배 받습니다.",
   "AboutYieldStatusDesc2": "<strong>2. 거래 수수료 분배 수익률(%)</strong></br>\n풀에서 발생한 거래(Swap) 수수료는 자동으로 풀에 누적되며, 풀의 유동성 공급자는 각자의 예치 지분율에 따라 수수료를 분배 받습니다. 분배된 수수료는 내 예치자산 수량에 자동으로 포함되며, 자유롭게 출금이 가능합니다.",
   "AboutYieldStatusDesc3": "<strong>3. 스테이킹 보상 수익률(%)</strong></br>\nKLAY 단일 예치는 자동화된 스마트 컨트랙트를 통해 예치를 신청한 KLAY 중 일부(약 50%)를 스테이킹하여 SKLAY로 전환한 후 풀에 예치하므로, 현재 Klaystation의 스테이킹 수익률의 절반에 해당하는 추가 수익을 분배 받습니다.",
-  "Row: 264": "<strong>*Not estimated</strong></br> \n해당 유동성 풀에 포함된 토큰 가격 측정 불가로 인해 관련 수치 및 \n유효한 수익률 파악이 불가능한 경우를 의미합니다."
+  "NotEstimatedPriceOfToken": "<strong>*Not estimated</strong></br> \n해당 유동성 풀에 포함된 토큰 가격 측정 불가로 인해 관련 수치 및 \n유효한 수익률 파악이 불가능한 경우를 의미합니다.",
+  "RewardToAPR": "KSP 분배(APY)",
+  "TxFeeToAPR": "거래 수수료(APY)"
 }
