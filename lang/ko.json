@@ -249,7 +249,7 @@
   "AutoClaimWhenWithdraw": "유동성 제거 시 밸런스 변동으로 인해 현재까지 분배된 보상을 자동으로 지갑으로 수령합니다. KSP 보상 수령만 원하는 경우, 상단의 Claim을 통해 자산을 지갑으로 수령할 수 있습니다.",
   "PeriodToDay": "{period}일",
   "StakingRewardRate": "스테이킹 보상",
-  "SupporterPoolDepositNotice1": "{token} 단일 예치는 출금 시 약 {period} 대기기간이 발생합니다. 출금 대기 내역에서 예상 완료일시를 확인해주시기 바랍니다.",
+  "SupporterPoolDepositNotice1": "출금 시 약 {period} 대기기간이 발생하며, 출금 대기 내역에서 예상 완료일시를 확인해주시기 바랍니다.",
   "SupporterPoolDepositNotice2": "대기 기간 종료 후 상단 출금 완료 영역에서 자산을 지갑으로 수령할 수 있습니다.",
   "KlipWeb2AppStep1": "카카오톡 앱 > 더보기 > 코드스캔",
   "KlipWeb2AppStep2": "Klip > 사이드 메뉴(좌측) > 코드스캔",
