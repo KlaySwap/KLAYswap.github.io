@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+    <defs>
+        <filter id="al4z1vloca" width="154.2%" height="154.2%" x="-27.1%" y="-27.1%" filterUnits="objectBoundingBox">
+            <feOffset dy="1" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="1"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g filter="url(#al4z1vloca)" transform="translate(-450 -843) translate(452 844)">
+                <rect width="24" height="24" fill="#FFF" rx="12"/>
+                <path fill="#F39755" d="M8.006 8h8.001c.552 0 1 .448 1 1v7.997c0 .552-.448 1-1 1h-.003l-3.315-.01L7 14.704 7.006 9c0-.552.448-.999 1-.999z" transform="rotate(-30 12.003 13)"/>
+                <path stroke="#FFF" stroke-linecap="round" d="M14 13L10 13 10 11" transform="rotate(-45 12 12)"/>
+            </g>
+        </g>
+    </g>
+</svg>
