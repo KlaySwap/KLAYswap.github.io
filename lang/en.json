@@ -264,8 +264,8 @@
     "RewardToAPR": "KSP Reward (APY)",
     "TxFeeToAPR": "Tx Fees (APY)",
     "Rank": "Rank",
-    "EmptyDepositedPools": "예치한 풀이 없습니다",
-    "ReceiveMiningToken": "유동성 공급 후 {token} 분배받기"
+    "EmptyDepositedPools": "You have no deposits in any pools",
+    "ReceiveMiningToken": "Provide Liquidity and get {token}"
   },
   "Staking": {
     "UserYieldTooltipTitle": "The annual return (APR) that is expected to be obtained from all rewards distributed in the liquidity pool.",
@@ -279,8 +279,8 @@
     "AirdropToken": "{token} Airdrop",
     "StakingAmount": "Staked Amount",
     "AboutVotingPeriodTooltip": "The longer you stake, the higher your return (APR), even with the same amount staked.",
-    "Unstaking": "Unstaking",
-    "Staking": "Staking",
+    "Unstaking": "Unstake",
+    "Staking": "Stake",
     "Min": "Min",
     "Max": "Max",
     "RewardAmount": "Reward Amount",
@@ -376,7 +376,7 @@
   "Main": {
     "TotalLiquidity": "Total Liquidity",
     "MiningEarnRate": "Pool Rewards Rate",
-    "TotalRewardsTitle": "Staking + Voting Rewards Rate",
+    "TotalRewardsTitle": "Staking + Voting Rewards",
     "TokenomicsItem1Title": "Promote Ecosystem Participation with Incentives",
     "TokenomicsItem1Article": "Utilize KSP as an incentive to motivate liquidity providers, staking/pool-voting participants to enter the KLAYswap ecosystem",
     "TokenomicsItem2Title": "Stabilize and Increase Value by Securing Staking Demand",
@@ -389,6 +389,6 @@
     "KspStakeRate": "KSP Staking APR ",
     "KspTotalStaked": "Total KSP Staked",
     "KspStakeRatio": "Staking Ratio",
-    "AuditReportTitle": "KLAYswap은 HAECHI LABS 의 스마트 계약 보안 감사를 완료했습니다."
+    "AuditReportTitle": "KLAYswap smart contracts have been audited by HAECHI LABS"
   }
 }
