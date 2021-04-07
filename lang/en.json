@@ -372,8 +372,8 @@
     "TotalMintedVKSP": "Protocol Total vKSP",
     "OverMaxVotingPools": "You can vote for up to 10 pools",
     "NoticeAboutApplyVotingRate": "KSP Mining Distribution Rates will be determined by voting starting from block 55543025",
-    "AboutVotingStatus": "실시간 투표현황 안내",
-    "IsDisabledVotingPool": "풀 투표 가능 대상이 아닙니다"
+    "AboutVotingStatus": "About Real-time Voting Status",
+    "IsDisabledVotingPool": "This pool is not eligible for voting"
   },
   "Main": {
     "TotalLiquidity": "Total Liquidity",
