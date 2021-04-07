@@ -371,7 +371,9 @@
     "KspRewardRate": "KSP 분배율",
     "TotalMintedVKSP": "프로토콜 총 vKSP",
     "OverMaxVotingPools": "투표는 최대 10개 풀까지 가능합니다.",
-    "NoticeAboutApplyVotingRate": "55543025 블록부터 풀 투표에 따른 KSP 분배율이 적용됩니다."
+    "NoticeAboutApplyVotingRate": "55543025 블록부터 풀 투표에 따른 KSP 분배율이 적용됩니다.",
+    "AboutVotingStatus": "실시간 투표현황 안내",
+    "IsDisabledVotingPool": "풀 투표 가능 대상이 아닙니다"
   },
   "Main": {
     "TotalLiquidity": "유동성 풀 규모",
