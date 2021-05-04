@@ -265,7 +265,8 @@
     "TxFeeToAPR": "Tx Fees (APY)",
     "Rank": "Rank",
     "EmptyDepositedPools": "You have no deposits in any pools",
-    "ReceiveMiningToken": "Provide Liquidity and get {token}"
+    "ReceiveMiningToken": "Provide Liquidity and get {token}",
+    "AlertChangeSwapPrice": "The token price (exchange ratio) has changed. Please click the confirm button to check the new estimated transaction details with the new price."
   },
   "Staking": {
     "UserYieldTooltipTitle": "The annual return (APR) that is expected to be obtained from all rewards distributed in the liquidity pool.",
@@ -374,8 +375,8 @@
     "NoticeAboutApplyVotingRate": "KSP Mining Distribution Rates will be determined by voting starting from block 55543025",
     "AboutVotingStatus": "About Real-time Voting Status",
     "IsDisabledVotingPool": "This pool is not eligible for voting",
-    "CurrentVotingStatus": "Pool Distribution Ratio Status",
-    "EstimateNextVotingPeriod": "Next Distribution Ratio Estimation",
+    "CurrentVotingStatus": "KSP Rewards Status",
+    "EstimateNextVotingPeriod": "Next Estimate",
     "PeriodOfThisRound": "Voting Round Period",
     "NotReceivedVotingKSP": "Non-Mining Eligibile Pools",
     "NextVotingPeriodStartedAt": "Next Voting Period Starts at",

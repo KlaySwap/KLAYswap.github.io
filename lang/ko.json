@@ -265,7 +265,8 @@
     "TxFeeToAPR": "거래 수수료(APY)",
     "Rank": "순위",
     "EmptyDepositedPools": "예치한 풀이 없습니다",
-    "ReceiveMiningToken": "유동성 공급 후 {token} 분배받기"
+    "ReceiveMiningToken": "유동성 공급 후 {token} 분배받기",
+    "AlertChangeSwapPrice": "토큰 가격(교환비율)이 변경되었습니다. 확인 버튼을 클릭하여 변경된 가격에 따른 새 예상 거래 내역을 확인해주세요. "
   },
   "Staking": {
     "UserYieldTooltipTitle": "유동성 풀에서 분배되는 모든 보상으로 인해 획득할 것으로 예상되는 연간 수익률(APR)을 의미합니다.",
