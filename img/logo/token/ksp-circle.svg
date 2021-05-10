@@ -14,7 +14,7 @@
         <g>
             <g filter="url(#847x8evl7a)" transform="translate(-838 -1824) translate(840 1825)">
                 <rect width="32" height="32" fill="#FFF" rx="16"/>
-                <g fill="#F39755" fill-rule="nonzero">
+                <g fill="#ff9632" fill-rule="nonzero">
                     <path d="M4.13 5.642L8.091 9.482 21.867 9.482 7.856 1.998zM3.847 5.917L.162 9.482 7.532 9.482zM3.725 5.525L7.532 1.802 4.13 0 .526 8.66z" transform="translate(5.333 10.133)"/>
                 </g>
             </g>

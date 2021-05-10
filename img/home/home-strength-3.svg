@@ -2,7 +2,7 @@
     <defs>
         <linearGradient id="i2l6fzn3aa" x1="50%" x2="50%" y1="0%" y2="100%">
             <stop offset="0%" stop-color="#FAC88E"/>
-            <stop offset="100%" stop-color="#F39755"/>
+            <stop offset="100%" stop-color="#ff9632"/>
         </linearGradient>
         <path id="zm8idqwb7b" d="M16.398 0L53.333 19.41 0 19.41z"/>
     </defs>
@@ -22,13 +22,13 @@
                     <mask id="g5zoiw95uc" fill="#fff">
                         <use xlink:href="#zm8idqwb7b"/>
                     </mask>
-                    <use fill="#F39755" transform="matrix(-1 0 0 1 53.333 0)" xlink:href="#zm8idqwb7b"/>
+                    <use fill="#ff9632" transform="matrix(-1 0 0 1 53.333 0)" xlink:href="#zm8idqwb7b"/>
                     <path fill="#FFF" d="M42.549 6.12L46.689 7.709 41.402 10.667 34.306 10.667z" mask="url(#g5zoiw95uc)"/>
                     <circle cx="29.497" cy="14.219" r="1" fill="#FFF" mask="url(#g5zoiw95uc)"/>
                     <circle cx="24.601" cy="14.219" r="1" fill="#FFF" mask="url(#g5zoiw95uc)"/>
                     <circle cx="19.705" cy="14.219" r="1" fill="#FFF" mask="url(#g5zoiw95uc)"/>
                 </g>
-                <path fill="#F39755" d="M2 82.544H382V84.544H2z"/>
+                <path fill="#ff9632" d="M2 82.544H382V84.544H2z"/>
             </g>
         </g>
     </g>

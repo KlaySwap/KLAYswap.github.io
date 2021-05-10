@@ -9,7 +9,7 @@
         </linearGradient>
         <linearGradient id="1ebxv7lvub" x1="100%" x2="0%" y1="100%" y2="0%">
             <stop offset="0%" stop-color="#FAC88E"/>
-            <stop offset="62.679%" stop-color="#F39755"/>
+            <stop offset="62.679%" stop-color="#ff9632"/>
             <stop offset="100%" stop-color="#E66D16"/>
         </linearGradient>
         <linearGradient id="kr0qox5rnc" x1="0%" x2="100%" y1="0%" y2="100%">
@@ -18,12 +18,12 @@
         </linearGradient>
         <linearGradient id="f4b1f14abd" x1="0%" x2="100%" y1="0%" y2="100%">
             <stop offset="0%" stop-color="#E66D16"/>
-            <stop offset="41.227%" stop-color="#F39755"/>
+            <stop offset="41.227%" stop-color="#ff9632"/>
             <stop offset="100%" stop-color="#FAC88E"/>
         </linearGradient>
         <linearGradient id="ytnci7nbre" x1="50%" x2="50%" y1="0%" y2="100%">
             <stop offset="0%" stop-color="#FAC88E"/>
-            <stop offset="100%" stop-color="#F39755"/>
+            <stop offset="100%" stop-color="#ff9632"/>
         </linearGradient>
     </defs>
     <g fill="none" fill-rule="evenodd">

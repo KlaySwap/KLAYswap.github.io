@@ -17,11 +17,11 @@
         </filter>
         <linearGradient id="3mlftps3wa" x1="50%" x2="50%" y1="0%" y2="100%">
             <stop offset="0%" stop-color="#FAC88E"/>
-            <stop offset="100%" stop-color="#F39755"/>
+            <stop offset="100%" stop-color="#ff9632"/>
         </linearGradient>
         <linearGradient id="icd8njlzsh" x1="-13.751%" x2="100%" y1="49.483%" y2="50%">
             <stop offset="0%" stop-color="#FFF" stop-opacity="0"/>
-            <stop offset="100%" stop-color="#F39755" stop-opacity=".8"/>
+            <stop offset="100%" stop-color="#ff9632" stop-opacity=".8"/>
         </linearGradient>
         <rect id="dtpft59b0c" width="60" height="40" x="166" y="28" rx="3"/>
         <rect id="h2wnx8oqce" width="80" height="53" x="0" y="0" rx="3"/>

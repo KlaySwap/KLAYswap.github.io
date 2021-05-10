@@ -14,7 +14,7 @@
         <g>
             <g filter="url(#al4z1vloca)" transform="translate(-450 -843) translate(452 844)">
                 <rect width="24" height="24" fill="#FFF" rx="12"/>
-                <path fill="#F39755" d="M8.006 8h8.001c.552 0 1 .448 1 1v7.997c0 .552-.448 1-1 1h-.003l-3.315-.01L7 14.704 7.006 9c0-.552.448-.999 1-.999z" transform="rotate(-30 12.003 13)"/>
+                <path fill="#ff9632" d="M8.006 8h8.001c.552 0 1 .448 1 1v7.997c0 .552-.448 1-1 1h-.003l-3.315-.01L7 14.704 7.006 9c0-.552.448-.999 1-.999z" transform="rotate(-30 12.003 13)"/>
                 <path stroke="#FFF" stroke-linecap="round" d="M14 13L10 13 10 11" transform="rotate(-45 12 12)"/>
             </g>
         </g>

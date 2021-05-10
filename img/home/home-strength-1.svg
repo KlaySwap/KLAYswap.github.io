@@ -25,15 +25,15 @@
         </linearGradient>
         <linearGradient id="2bekoyhhoe" x1="91.765%" x2="19.797%" y1="90.406%" y2="22.507%">
             <stop offset="0%" stop-color="#FAC88E"/>
-            <stop offset="100%" stop-color="#F39755"/>
+            <stop offset="100%" stop-color="#ff9632"/>
         </linearGradient>
         <linearGradient id="m48g2prpif" x1=".401%" x2="70.944%" y1="5.39%" y2="68.835%">
             <stop offset=".048%" stop-color="#E66D16"/>
-            <stop offset="100%" stop-color="#F39755"/>
+            <stop offset="100%" stop-color="#ff9632"/>
         </linearGradient>
         <linearGradient id="9zznkdp6eg" x1="84.824%" x2="14.668%" y1="79.658%" y2="26.318%">
             <stop offset="0%" stop-color="#FAC88E"/>
-            <stop offset="100%" stop-color="#F39755"/>
+            <stop offset="100%" stop-color="#ff9632"/>
         </linearGradient>
         <linearGradient id="gqr1ldtn5h" x1="76.973%" x2="0%" y1="83.672%" y2="26.084%">
             <stop offset="0%" stop-color="#FFF7F1"/>
@@ -60,7 +60,7 @@
                 <path fill="url(#2bekoyhhoe)" d="M90.116 15.358l32.907-4.471c6.29 8.292 9.993 15.816 11.108 22.574 1.114 6.758-.188 13.787-3.908 21.087-7.765 2.75-14.572 3.663-20.42 2.738-5.847-.926-13.9-4.19-24.16-9.793l4.473-32.135z" transform="rotate(45 110.08 34.261)"/>
                 <path fill="url(#m48g2prpif)" d="M89.163 13.186l40.108 39.19c-7.766 2.75-14.572 3.662-20.42 2.737-5.848-.925-13.901-4.19-24.16-9.792l4.472-32.135z" transform="rotate(45 106.981 34.324)"/>
                 <ellipse cx="110.531" cy="34.631" fill="#FFF" rx="11.303" ry="11.328"/>
-                <path fill="#F39755" d="M108.464 36.513l5.959-6.131c.365-.376.958-.376 1.324 0 .365.376.365.986 0 1.362l-6.62 6.812c-.366.376-.959.376-1.325 0l-2.648-2.725c-.365-.376-.365-.986 0-1.362.366-.376.959-.376 1.324 0l1.986 2.044z"/>
+                <path fill="#ff9632" d="M108.464 36.513l5.959-6.131c.365-.376.958-.376 1.324 0 .365.376.365.986 0 1.362l-6.62 6.812c-.366.376-.959.376-1.325 0l-2.648-2.725c-.365-.376-.365-.986 0-1.362.366-.376.959-.376 1.324 0l1.986 2.044z"/>
                 <circle cx="150.825" cy="70.309" r="5.67" fill="url(#9zznkdp6eg)"/>
                 <circle cx="201.856" cy="44.227" r="5.67" fill="url(#9zznkdp6eg)"/>
                 <circle cx="14.742" cy="54.433" r="5.67" fill="url(#9zznkdp6eg)"/>

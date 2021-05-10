@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="72" height="58" viewBox="0 0 72 58">
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <path fill="#B39C7D" stroke="#6F6558" stroke-width="4" d="M19 32H31V44H19z" transform="translate(-154 -517) translate(154 519) rotate(-90 25 38)"/>
+                <path fill="#B39C7D" stroke="#6F6558" stroke-width="4" d="M41 10H53V22H41z" transform="translate(-154 -517) translate(154 519) rotate(-90 47 16)"/>
+                <path stroke="#6F6558" stroke-width="4" d="M19 10H31V22H19z" transform="translate(-154 -517) translate(154 519) rotate(-90 25 16)"/>
+                <path stroke="#333" stroke-width="3" d="M9 54L9 39 24 39" transform="translate(-154 -517) translate(154 519) rotate(-90 16.5 46.5)"/>
+                <path stroke="#333" stroke-width="3" d="M48 54L48 39 63 39" transform="translate(-154 -517) translate(154 519) matrix(0 -1 -1 0 102 102)"/>
+                <path stroke="#333" stroke-width="3" d="M9 15L9 0 24 0" transform="translate(-154 -517) translate(154 519)"/>
+                <path stroke="#333" stroke-width="3" d="M48 15L48 0 63 0" transform="translate(-154 -517) translate(154 519) matrix(-1 0 0 1 111 0)"/>
+                <path stroke="#6F6558" stroke-width="4" d="M41 32v1h1v-1h-1zM41 43v1h1v-1h-1zM52 43v1h1v-1h-1zM52 32v1h1v-1h-1z" transform="translate(-154 -517) translate(154 519)"/>
+                <path fill="#333" d="M0 26H72V28H0z" transform="translate(-154 -517) translate(154 519)"/>
+            </g>
+        </g>
+    </g>
+</svg>

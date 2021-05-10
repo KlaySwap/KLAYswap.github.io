@@ -12,11 +12,11 @@
         </linearGradient>
         <linearGradient id="8z8mephjid" x1="50%" x2="50%" y1="0%" y2="100%">
             <stop offset="0%" stop-color="#FAC88E"/>
-            <stop offset="100%" stop-color="#F39755"/>
+            <stop offset="100%" stop-color="#ff9632"/>
         </linearGradient>
         <linearGradient id="nodavgnnzg" x1="100%" x2="0%" y1="50%" y2="-64.99%">
             <stop offset="0%" stop-color="#FAC88E"/>
-            <stop offset="100%" stop-color="#F39755"/>
+            <stop offset="100%" stop-color="#ff9632"/>
         </linearGradient>
         <linearGradient id="c01sala7mh" x1="0%" x2="100%" y1="0%" y2="100%">
             <stop offset="0%" stop-color="#FAC88E"/>
@@ -47,7 +47,7 @@
                     <path fill="#B39C7D" d="M48 51c0-5.523-4.477-10-10-10s-10 4.477-10 10"/>
                     <g filter="url(#8coqr10ntf)" transform="translate(43 38)">
                         <circle cx="8" cy="8" r="8" fill="#FFF"/>
-                        <path stroke="#F39755" stroke-linecap="round" stroke-width="2" d="M6 9L6 5 11 5" transform="scale(1 -1) rotate(45 25.4 0)"/>
+                        <path stroke="#ff9632" stroke-linecap="round" stroke-width="2" d="M6 9L6 5 11 5" transform="scale(1 -1) rotate(45 25.4 0)"/>
                     </g>
                 </g>
                 <circle cx="112" cy="4" r="4" fill="url(#nodavgnnzg)"/>
