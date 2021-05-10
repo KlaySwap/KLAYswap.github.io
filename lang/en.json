@@ -497,6 +497,7 @@
     "ChainTypeETH": "Ethereum Chain",
     "ChainTypeBSC": "Binance Smart Chain",
     "ChainTypeXRP": "XRP Chain",
-    "UtilizationRate": "Utilization rate"
+    "UtilizationRate": "Utilization rate",
+    "DoNotSendToXrpVault": "오르빗 브릿지 주소로는 출금이 불가능합니다. 거래소/개인지갑 주소로만 출금 가능합니다."
   }
 }

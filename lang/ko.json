@@ -497,6 +497,7 @@
     "ChainTypeETH": "이더리움 체인",
     "ChainTypeBSC": "바이낸스 스마트체인",
     "ChainTypeXRP": "리플 체인",
-    "UtilizationRate": "가동률"
+    "UtilizationRate": "가동률",
+    "DoNotSendToXrpVault": "오르빗 브릿지 주소로는 출금이 불가능합니다. 거래소/개인지갑 주소로만 출금 가능합니다."
   }
 }
