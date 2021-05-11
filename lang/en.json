@@ -384,7 +384,9 @@
     "AboutNotReceivedVotingKSP": "As this pool has not registered as a KSP Mining eligible pool, KSP mining will not be distributed to this pool. Users who vote for this pool will share the transaction fee rewards from this pool. ",
     "VotedForValidPool": "KSP Distribution Possible Votes",
     "VotedForInvalidPool": "KSP Distribution Non-eligible Pools",
-    "AboutPoolVotingSharedMsg5": "KSP Mining Distribution rates will be determined with a snapshot of the voting status at 9AM (KST) everyday. This rate will be in place until the next round's snapshot. The distributed rewards (APR) are all estimated values. They may differ slightly from the actual values. "
+    "AboutPoolVotingSharedMsg5": "KSP Mining Distribution rates will be determined with a snapshot of the voting status at 9AM (KST) everyday. This rate will be in place until the next round's snapshot. The distributed rewards (APR) are all estimated values. They may differ slightly from the actual values. ",
+    "ClaimAll": "Collect All Rewards",
+    "AboutClaimAll": "Collect all rewards generated from voted Liquidity Pools"
   },
   "Main": {
     "TotalLiquidity": "Total Liquidity",
@@ -491,8 +493,6 @@
     "GetTokenToDeposit": "Deposit",
     "GetTokenToBuy": "Trade",
     "XrpWithdrawUsuallyNeedTag": "If a Destination Tag is not required, please check \"Do not use\".  If the receiving wallet/exchanges require it, a Destination Tag must be entered.",
-    "ClaimAll": "Collect All Rewards",
-    "AboutClaimAll": "Collect all rewards generated from voted Liquidity Pools",
     "XrpWithdrawWithoutTag": "Do not use",
     "ChainTypeETH": "Ethereum Chain",
     "ChainTypeBSC": "Binance Smart Chain",
