@@ -405,14 +405,14 @@
     "KspTotalStaked": "Total KSP Staked",
     "KspStakeRatio": "Staking Ratio",
     "AuditReportTitle": "KLAYswap smart contracts have been audited by HAECHI LABS",
-    "EventXrp210517Title": "리플(XRP)신규 런칭 EVENT",
-    "EventXrp210517SubTitle": "리플로 매초마다 보상받고, 클레이 에어드랍까지 받아가세요",
-    "EventXrp210517LinkLabel": "이벤트 상세보기 ",
-    "SiteGuideTitle": "초보자를 위한 클레이스왑 가이드",
-    "SiteGuideSubTitle": "처음이신가요?",
-    "SiteGuideLinkLabel": "가이드 살펴보기 ",
-    "SiteGuideAboutDeposit": "예치 가이드 ",
-    "SiteGuideAboutPoolVoting": "풀 투표 가이드"
+    "EventXrp210517Title": "Ripple(XRP) launching event",
+    "EventXrp210517SubTitle": "Get rewarded on XRP asset, and receive KLAY airdrop too!",
+    "EventXrp210517LinkLabel": "Learn more about the event",
+    "SiteGuideTitle": "Guide for KLAYswap new-comers",
+    "SiteGuideSubTitle": "Is this your first time? ",
+    "SiteGuideLinkLabel": "Read guide",
+    "SiteGuideAboutDeposit": "How to deposit",
+    "SiteGuideAboutPoolVoting": "How to vote in pools"
   },
   "Asset": {
     "MyAsset": "My Assets",
@@ -506,7 +506,7 @@
     "ChainTypeBSC": "Binance Smart Chain",
     "ChainTypeXRP": "XRP Chain",
     "UtilizationRate": "Utilization rate",
-    "DoNotSendToXrpVault": "오르빗 브릿지 주소로는 출금이 불가능합니다. 거래소/개인지갑 주소로만 출금 가능합니다."
+    "DoNotSendToXrpVault": "Withdrawal to an Orbit Bridge address is not possible.  It is only possible to withdraw to an exchange or a personal address."
   },
   "Landing": {
     "PromotionTitle": "Receive cryptocurrency rewards by the seconds! ",
@@ -541,7 +541,7 @@
     "ParticipatText1-1": "Connect to my Klip wallet, within seconds",
     "ParticipatText1-2": "Connect to a secure blockchain wallet within my Kakaotalk app, without registration",
     "ParticipatText2-1": "Send Ripple (XRP) from exchange to my personal address",
-    "ParticipatText2-2": "내 자산 페이지에서 확인한 리플 입금주소로 즉시 입금 가능",
+    "ParticipatText2-2": "Deposit immediately to Ripple address found in the Assets page",
     "MakeDeposit": "Start using KLAYswap",
     "KlayText": "Klay",
     "XrpText": "XRP",
