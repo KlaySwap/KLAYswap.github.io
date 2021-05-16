@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="202" height="136" viewBox="0 0 202 136">
+    <defs>
+        <linearGradient id="ehzoagllzb" x1="100%" x2="0%" y1="100%" y2="0%">
+            <stop offset="0%" stop-color="#FAC88E"/>
+            <stop offset="62.679%" stop-color="#F39755"/>
+            <stop offset="100%" stop-color="#E66D16"/>
+        </linearGradient>
+        <filter id="yyeotdc6aa" width="282.3%" height="282.3%" x="-91%" y="-91%" filterUnits="objectBoundingBox">
+            <feOffset dy="10" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g transform="translate(-134 -3499) translate(20 3455) translate(115 45)">
+                    <circle cx="100" cy="100" r="100" stroke="#F39755" opacity=".1"/>
+                    <circle cx="100" cy="100" r="85.714" stroke="#F39755" opacity=".3"/>
+                    <circle cx="100" cy="100" r="64.286" stroke="#F39755" opacity=".5"/>
+                    <circle cx="100" cy="100" r="42.857" stroke="#F39755"/>
+                    <g filter="url(#yyeotdc6aa)" transform="translate(78.571 78.571)">
+                        <rect width="42.857" height="42.857" fill="#FFF" rx="21.429"/>
+                        <g fill="#F39755" fill-rule="nonzero">
+                            <path d="M5.464 7.714L10.704 12.964 28.929 12.964 10.393 2.732zM5.089 8.089L.214 12.964 9.964 12.964zM4.929 7.554L9.964 2.464 5.464 0 .696 11.839z" transform="translate(6.964 13.393)"/>
+                        </g>
+                    </g>
+                    <circle cx="77.143" cy="40" r="2.857" fill="#FFD5B6"/>
+                    <circle cx="157.857" cy="72.857" r="2.857" fill="#FFD5B6"/>
+                    <circle cx="37.143" cy="113.571" r="2.857" fill="#FFD5B6"/>
+                    <circle cx="163.571" cy="111.429" r="5" fill="url(#ehzoagllzb)"/>
+                    <circle cx="137.143" cy="22.857" r="3.571" fill="url(#ehzoagllzb)"/>
+                    <circle cx="43.151" cy="71.008" r="6.723" fill="url(#ehzoagllzb)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="225" height="120" viewBox="0 0 225 120">
+    <defs>
+        <linearGradient id="7kbyygp4ba" x1="61.373%" x2="20.208%" y1="94.538%" y2="12.42%">
+            <stop offset="0%" stop-color="#B39C7D"/>
+            <stop offset="99.942%" stop-color="#998364"/>
+        </linearGradient>
+        <linearGradient id="z4mzj35ncd" x1="50%" x2="34.111%" y1="75.787%" y2="15.486%">
+            <stop offset="0%" stop-color="#FFF"/>
+            <stop offset="100%" stop-color="#FFF" stop-opacity=".5"/>
+        </linearGradient>
+        <filter id="emsxuupq7c" width="103.9%" height="103.9%" x="-1.9%" y="-1.9%" filterUnits="objectBoundingBox">
+            <feOffset dx="-4" dy="-4" in="SourceAlpha" result="shadowOffsetInner1"/>
+            <feComposite in="shadowOffsetInner1" in2="SourceAlpha" k2="-1" k3="1" operator="arithmetic" result="shadowInnerInner1"/>
+            <feColorMatrix in="shadowInnerInner1" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.3 0"/>
+        </filter>
+        <path id="ax0i5i1gzb" d="M162.104 96.365c22.165-22.165 25.646-54.62 7.776-72.49-17.87-17.871-50.326-14.39-72.491 7.775s-25.647 54.62-7.776 72.491c17.87 17.87 50.326 14.39 72.491-7.776z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g>
+                    <g transform="translate(-980 -2907) translate(740 2780) translate(237 125)">
+                        <g>
+                            <use fill="url(#7kbyygp4ba)" xlink:href="#ax0i5i1gzb"/>
+                            <use fill="#000" filter="url(#emsxuupq7c)" xlink:href="#ax0i5i1gzb"/>
+                        </g>
+                        <path fill="url(#z4mzj35ncd)" fill-rule="nonzero" d="M125.44 63.162l18.338 20.458-20.334 7.4-16.693-7.53 18.688-20.328zm20.745-24.097c4.634 5.757 7.215 13.265 7.25 21.106.096 7.866-2.503 15.541-7.25 21.427L127.66 60.74l18.526-21.676zm-21.701-8.458l-19.747 51.475c-4.7-5.572-6.193-13.636-6.191-21.409l25.938-30.066zm1.47-.535l17.92 7.488-36.94 43.722 19.02-51.21z" transform="rotate(20 125.991 60.546)"/>
+                        <ellipse cx="195.889" cy="111.055" fill="#F2EDE6" rx="12.889" ry="8.055" transform="rotate(30 195.889 111.055)"/>
+                        <ellipse cx="43.822" cy="56.025" fill="#E6D2B8" rx="10.311" ry="6.725" transform="rotate(50 43.822 56.025)"/>
+                        <ellipse cx="44.394" cy="113.695" fill="#F2EDE6" rx="10.311" ry="6.725" transform="rotate(-30 44.394 113.695)"/>
+                        <ellipse cx="12.889" cy="48.965" fill="#E6D2B8" rx="10.311" ry="6.725" transform="rotate(30 12.889 48.965)"/>
+                        <ellipse cx="218.676" cy="15.769" fill="#F2EDE6" rx="10.311" ry="5.385" transform="scale(1 -1) rotate(35 268.69 0)"/>
+                        <ellipse cx="193.224" cy="9.442" fill="#E6D2B8" rx="8.378" ry="4.712" transform="scale(-1 1) rotate(50 0 -404.927)"/>
+                        <circle cx="61.694" cy="27.175" r="5.155" fill="#E6D2B8"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
