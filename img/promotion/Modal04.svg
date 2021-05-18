@@ -1,0 +1,137 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="790" height="280" viewBox="0 0 790 280">
+    <defs>
+        <filter id="89pgw29k6e" width="157.9%" height="157.9%" x="-28.9%" y="-28.9%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="4"/>
+        </filter>
+        <filter id="9ncs0mcvig" width="206%" height="206%" x="-53%" y="-53%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="4"/>
+        </filter>
+        <filter id="ez8wvhsnih" width="157.9%" height="157.9%" x="-28.9%" y="-28.9%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="4"/>
+        </filter>
+        <filter id="w9tjk24tzj" width="280.8%" height="280.8%" x="-90.4%" y="-90.4%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="4"/>
+        </filter>
+        <filter id="n7ksrwdial" width="220.6%" height="220.6%" x="-60.3%" y="-60.3%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="4"/>
+        </filter>
+        <filter id="smusbws9dn" width="127.9%" height="127.9%" x="-14%" y="-14%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="4"/>
+        </filter>
+        <filter id="70f5l4jl1o" width="127.9%" height="127.9%" x="-14%" y="-14%" filterUnits="objectBoundingBox">
+            <feGaussianBlur in="SourceGraphic" stdDeviation="4"/>
+        </filter>
+        <filter id="pzwrwcymzp" width="230%" height="230%" x="-65%" y="-65%" filterUnits="objectBoundingBox">
+            <feOffset dy="10" in="SourceAlpha" result="shadowOffsetOuter1"/>
+            <feGaussianBlur in="shadowOffsetOuter1" result="shadowBlurOuter1" stdDeviation="5"/>
+            <feColorMatrix in="shadowBlurOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.1 0"/>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"/>
+                <feMergeNode in="SourceGraphic"/>
+            </feMerge>
+        </filter>
+        <radialGradient id="kce0a3yubc" cx="68.269%" cy="29.495%" r="81.273%" fx="68.269%" fy="29.495%" gradientTransform="matrix(-.84493 .53266 -.53179 -.84633 1.416 .18)">
+            <stop offset="0%" stop-color="#FFEEDF"/>
+            <stop offset="100%" stop-color="#FF9632"/>
+        </radialGradient>
+        <radialGradient id="7uannxogid" cx="50%" cy="12.664%" r="100%" fx="50%" fy="12.664%">
+            <stop offset="0%" stop-color="#FFF1E4" stop-opacity="0"/>
+            <stop offset="100%" stop-color="#F39755"/>
+        </radialGradient>
+        <radialGradient id="3snskvje6f" cx="68.269%" cy="29.495%" r="81.273%" fx="68.269%" fy="29.495%" gradientTransform="matrix(-.84493 .53266 -.53179 -.84633 1.416 .18)">
+            <stop offset="0%" stop-color="#FFEEDF"/>
+            <stop offset="100%" stop-color="#FF9632"/>
+        </radialGradient>
+        <radialGradient id="zddupjm8fi" cx="68.269%" cy="29.495%" r="81.273%" fx="68.269%" fy="29.495%" gradientTransform="matrix(-.84493 .53266 -.53179 -.84633 1.416 .18)">
+            <stop offset="0%" stop-color="#FFEEDF"/>
+            <stop offset="100%" stop-color="#FF9632"/>
+        </radialGradient>
+        <radialGradient id="oqd60engnk" cx="68.269%" cy="29.495%" r="81.273%" fx="68.269%" fy="29.495%" gradientTransform="matrix(-.84493 .53266 -.53179 -.84633 1.416 .18)">
+            <stop offset="0%" stop-color="#FFEEDF"/>
+            <stop offset="100%" stop-color="#FF9632"/>
+        </radialGradient>
+        <radialGradient id="xhi93oyuom" cx="68.269%" cy="29.495%" r="81.178%" fx="68.269%" fy="29.495%">
+            <stop offset="0%" stop-color="#FFEEDF"/>
+            <stop offset="100%" stop-color="#FF9632"/>
+        </radialGradient>
+        <linearGradient id="xbwp7uurzq" x1="100%" x2="0%" y1="100%" y2="0%">
+            <stop offset="0%" stop-color="#FAC88E"/>
+            <stop offset="62.679%" stop-color="#F39755"/>
+            <stop offset="100%" stop-color="#E66D16"/>
+        </linearGradient>
+        <rect id="jeo08l60la" width="790" height="280" x="0" y="0" rx="3"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g transform="translate(-101 -2255) translate(101 2255)">
+                <mask id="pzcw8veosb" fill="#fff">
+                    <use xlink:href="#jeo08l60la"/>
+                </mask>
+                <use fill="#FFF" xlink:href="#jeo08l60la"/>
+                <g mask="url(#pzcw8veosb)">
+                    <g transform="translate(593 58)">
+                        <ellipse cx="25.427" cy="24.532" fill="url(#kce0a3yubc)" rx="24.573" ry="24.532"/>
+                        <circle cx="28.035" cy="25.195" r="20.736" fill="url(#7uannxogid)" filter="url(#89pgw29k6e)"/>
+                    </g>
+                </g>
+                <g mask="url(#pzcw8veosb)">
+                    <g transform="translate(188 108)">
+                        <ellipse cx="13.583" cy="13.395" fill="url(#3snskvje6f)" rx="13.417" ry="13.395"/>
+                        <circle cx="15.007" cy="13.757" r="11.322" fill="url(#7uannxogid)" filter="url(#9ncs0mcvig)"/>
+                    </g>
+                </g>
+                <g mask="url(#pzcw8veosb)">
+                    <g transform="translate(86 172)">
+                        <ellipse cx="25.427" cy="24.532" fill="url(#kce0a3yubc)" rx="24.573" ry="24.532"/>
+                        <circle cx="28.035" cy="25.195" r="20.736" fill="url(#7uannxogid)" filter="url(#ez8wvhsnih)"/>
+                    </g>
+                </g>
+                <g mask="url(#pzcw8veosb)">
+                    <g transform="translate(240 217)">
+                        <ellipse cx="8.137" cy="7.85" fill="url(#zddupjm8fi)" rx="7.863" ry="7.85"/>
+                        <circle cx="8.971" cy="8.062" r="6.635" fill="url(#7uannxogid)" filter="url(#w9tjk24tzj)"/>
+                    </g>
+                </g>
+                <g mask="url(#pzcw8veosb)">
+                    <g transform="translate(234 -11)">
+                        <ellipse cx="12.205" cy="11.775" fill="url(#oqd60engnk)" rx="11.795" ry="11.775"/>
+                        <circle cx="13.457" cy="12.094" r="9.953" fill="url(#7uannxogid)" filter="url(#n7ksrwdial)"/>
+                    </g>
+                </g>
+                <g mask="url(#pzcw8veosb)">
+                    <g transform="translate(637 192)">
+                        <circle cx="51" cy="51" r="51" fill="url(#xhi93oyuom)"/>
+                        <circle cx="56" cy="52" r="43" fill="url(#7uannxogid)" filter="url(#smusbws9dn)"/>
+                    </g>
+                </g>
+                <g mask="url(#pzcw8veosb)">
+                    <g transform="translate(-76 38)">
+                        <circle cx="51" cy="51" r="51" fill="url(#xhi93oyuom)"/>
+                        <circle cx="56" cy="52" r="43" fill="url(#7uannxogid)" filter="url(#70f5l4jl1o)"/>
+                    </g>
+                </g>
+                <g mask="url(#pzcw8veosb)">
+                    <g transform="translate(255)">
+                        <circle cx="140" cy="140" r="140" stroke="#F39755" opacity=".1"/>
+                        <circle cx="140" cy="140" r="120" stroke="#F39755" opacity=".3"/>
+                        <circle cx="140" cy="140" r="90" stroke="#F39755" opacity=".5"/>
+                        <circle cx="140" cy="140" r="60" stroke="#F39755"/>
+                        <g filter="url(#pzwrwcymzp)" transform="translate(110 110)">
+                            <rect width="60" height="60" fill="#FFF" rx="30"/>
+                            <g fill="#F39755" fill-rule="nonzero">
+                                <path d="M7.65 10.8L14.986 18.15 40.5 18.15 14.55 3.825zM7.125 11.325L.3 18.15 13.95 18.15zM6.9 10.575L13.95 3.45 7.65 0 .975 16.575z" transform="translate(9.75 18.75)"/>
+                            </g>
+                        </g>
+                        <circle cx="108" cy="56" r="4" fill="#FFD5B6"/>
+                        <circle cx="221" cy="102" r="4" fill="#FFD5B6"/>
+                        <circle cx="181" cy="220" r="4" fill="#FFD5B6"/>
+                        <circle cx="52" cy="159" r="4" fill="#FFD5B6"/>
+                        <circle cx="229" cy="156" r="7" fill="url(#xbwp7uurzq)"/>
+                        <circle cx="192" cy="32" r="5" fill="url(#xbwp7uurzq)"/>
+                        <circle cx="60.412" cy="99.412" r="9.412" fill="url(#xbwp7uurzq)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
