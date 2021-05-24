@@ -268,12 +268,12 @@
     "ReceiveMiningToken": "유동성 공급 후 {token} 분배받기",
     "AlertChangeSwapPrice": "토큰 가격(교환비율)이 변경되었습니다. 확인 버튼을 클릭하여 변경된 가격에 따른 새 예상 거래 내역을 확인해주세요. ",
     "Copy": "복사",
-    "Row: 272": "KLAYswap 접속 관련 안내",
-    "Row: 273": "사이트 이용 시 한 개의 탭을 사용하는 것을 권장합니다.",
-    "Row: 274": "한 개의 탭을 사용 하는 경우, 장시간 접속하더라도 정상적으로 사이트 이용이 가능합니다. ",
-    "Row: 275": "여러 개의 탭으로 장시간 접속, 회사/공용 IP를 사용하는 장소에서 접속,  \nRPC에 과도한 요청이 발생하는 경우 이용이 어려울 수 있습니다. ",
-    "Row: 276": "이용이 어려운 경우, 사이트에 접속중인 모든 탭을 종료한 후 최소 1시간 초과 후 다시 사이트에 접속하여 주시기 바랍니다. ",
-    "Row: 277": "안전하고 빠른 사이트 이용을 위하여 반드시 위 유의사항을 확인해주시기 바랍니다."
+    "AboutConnectionLimitTitle": "KLAYswap 접속 관련 안내",
+    "AboutConnectionLimitDesc1": "사이트 이용 시 <strong>한 개의 탭</strong>을 사용하는 것을 권장합니다.",
+    "AboutConnectionLimitDesc2": "<strong>한 개의 탭</strong>을 사용 하는 경우, 장시간 접속하더라도 정상적으로 사이트 이용이 가능합니다. ",
+    "AboutConnectionLimitDesc3": "<strong>여러 개의 탭으로 장시간 접속, 회사/공용 IP를 사용하는 장소에서 접속,  \nRPC에 과도한 요청이 발생</strong>하는 경우 이용이 어려울 수 있습니다. ",
+    "AboutConnectionLimitDesc4": "이용이 어려운 경우, 사이트에 접속중인 모든 탭을 종료한 후 <strong>최소 1시간</strong> 초과 후 다시 사이트에 접속하여 주시기 바랍니다. ",
+    "AboutConnectionLimitDesc5": "안전하고 빠른 사이트 이용을 위하여 반드시 위 유의사항을 확인해주시기 바랍니다."
   },
   "Staking": {
     "UserYieldTooltipTitle": "유동성 풀에서 분배되는 모든 보상으로 인해 획득할 것으로 예상되는 연간 수익률(APR)을 의미합니다.",
@@ -520,7 +520,7 @@
     "BridgeXrpCopyNotice2": "다시 한번 <strong>입금주소</strong>와 <strong>데스티네이션 태그</strong>를 모두 입력했는지 확인해주세요.",
     "BridgeCommonCopySuccess": "복사 완료",
     "BridgeCommonCopyNotice1": "{name}({symbol}) 자산만 입금이 가능합니다. <strong>{klaytn} {name}({kSymbol})은 입금할 수 없습니다.</strong",
-    "XrpCopyNoticeConfirm": "확인했습니다"
+    "CopyNoticeConfirm": "확인했습니다"
   },
   "Landing": {
     "PromotionTitle": "매초마다 불어나는 <br/>암호화폐 보상을 <br/>확인해보세요!",
