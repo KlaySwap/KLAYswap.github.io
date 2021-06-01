@@ -520,7 +520,8 @@
     "BridgeXrpCopyNotice2": "Please confirm that both the <strong>Address</strong> and <strong>Destination Tag</strong> are correctly entered. ",
     "BridgeCommonCopySuccess": "Successfully copied! ",
     "BridgeCommonCopyNotice1": "Only deposit {name}({symbol}) assets to this address.  <strong>{klaytn} {name}({kSymbol}) cannot be deposited.</strong",
-    "CopyNoticeConfirm": "Confirmed."
+    "CopyNoticeConfirm": "Confirmed.",
+    "BridgeXrpWrongDestinationWarning": "Due to the nature of blockchain, any loss of funds resulting from not entering/entering wrong Destination Tag cannot be recovered."
   },
   "Landing": {
     "PromotionTitle": "Receive <br/ >cryptocurrency rewards <br />by the seconds! ",

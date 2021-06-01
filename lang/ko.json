@@ -520,7 +520,8 @@
     "BridgeXrpCopyNotice2": "다시 한번 <strong>입금주소</strong>와 <strong>데스티네이션 태그</strong>를 모두 입력했는지 확인해주세요.",
     "BridgeCommonCopySuccess": "복사 완료",
     "BridgeCommonCopyNotice1": "{name}({symbol}) 자산만 입금이 가능합니다. <strong>{klaytn} {name}({kSymbol})은 입금할 수 없습니다.</strong",
-    "CopyNoticeConfirm": "확인했습니다"
+    "CopyNoticeConfirm": "확인했습니다",
+    "BridgeXrpWrongDestinationWarning": "블록체인 특성 상 입금주소, <strong>데스티네이션 태그 미입력 또는 오입력</strong>으로 인해 발생하는 자산 손실에 대해 <strong>복구가 불가능합니다.</strong>"
   },
   "Landing": {
     "PromotionTitle": "매초마다 불어나는 <br/>암호화폐 보상을 <br/>확인해보세요!",
