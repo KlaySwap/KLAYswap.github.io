@@ -443,7 +443,7 @@
     "BridgeDepositDescXRP1": "Please make sure both the Deposit Address and Destination Tag are correct.",
     "BridgeWithdrawDesc": "Klaytn {token} ({bridgeToken}) will be converted into {token} for immediate withdrawal to wallet/exchanges. ",
     "WithdrawAmount": "Withdrawal Amount ",
-    "AboutMinWithdrawAmount": "The withdrawal amount must be at least {minAmount} KXRP.",
+    "AboutMinWithdrawAmount": "The withdrawal amount must be at least {minAmount} {symbol}.",
     "AvailWithdraw": "Available for withdrawal",
     "BridgeFee": "Bridge Fee",
     "BridgeWithdrawTooltip1": "Klaytn {token} ({bridgeToken}) will be converted into {token} through Orbit Bridge for immediate withdrawal. ",
@@ -513,15 +513,17 @@
     "ChainTypeBSC": "Binance Smart Chain",
     "ChainTypeXRP": "XRP Chain",
     "ChainTypeKLAY": "Klaytn Chain",
+    "ChainTypeICON": "Icon Chain",
     "UtilizationRate": "Utilization rate",
-    "DoNotSendToXrpVault": "Withdrawal to an Orbit Bridge address is not possible.  It is only possible to withdraw to an exchange or a personal address.",
+    "DoNotSendToBridgeVault": "Withdrawal to an Orbit Bridge address is not possible.  It is only possible to withdraw to an exchange or a personal address.",
     "BridgeCopyNoticeTitle": "Please read the deposit warnings prior to depositing {name} ({symbol})",
     "BridgeXrpCopyNotice1": "To send Ripple from an exchange to KLAYswap, <strong>Destination Tag</strong> must be entered.",
     "BridgeXrpCopyNotice2": "Please confirm that both the <strong>Address</strong> and <strong>Destination Tag</strong> are correctly entered. ",
     "BridgeCommonCopySuccess": "Successfully copied! ",
     "BridgeCommonCopyNotice1": "Only deposit {name}({symbol}) assets to this address.  <strong>{klaytn} {name}({kSymbol}) cannot be deposited.</strong",
     "CopyNoticeConfirm": "Confirmed.",
-    "BridgeXrpWrongDestinationWarning": "Due to the nature of blockchain, any loss of funds resulting from not entering/entering wrong Destination Tag cannot be recovered."
+    "BridgeXrpWrongDestinationWarning": "Due to the nature of blockchain, any loss of funds resulting from not entering/entering wrong Destination Tag cannot be recovered.",
+    "DefaultOrderOption": "Sort By"
   },
   "Landing": {
     "PromotionTitle": "Receive <br/ >cryptocurrency rewards <br />by the seconds! ",

@@ -443,7 +443,7 @@
     "BridgeDepositDescXRP1": "반드시 입금주소와 데스티네이션 태그를 모두 정확히 입력해야 합니다. ",
     "BridgeWithdrawDesc": "클레이튼 {token} ({bridgeToken})를 {token}로 즉시 전환하여 거래소/개인지갑으로 출금할 수 있습니다.",
     "WithdrawAmount": "출금 수량 ",
-    "AboutMinWithdrawAmount": "최소 {minAmount} KXRP 이상부터 출금 가능합니다.",
+    "AboutMinWithdrawAmount": "최소 {minAmount} {symbol} 이상부터 출금 가능합니다.",
     "AvailWithdraw": "출금 가능 ",
     "BridgeFee": "브릿지 비용",
     "BridgeWithdrawTooltip1": "오르빗 브릿지를 통해 클레이튼 {token} ({bridgeToken})를 {token}로 전환해 바로 출금합니다.",
@@ -513,15 +513,17 @@
     "ChainTypeBSC": "바이낸스 스마트체인",
     "ChainTypeXRP": "리플 체인",
     "ChainTypeKLAY": "클레이튼 체인",
+    "ChainTypeICON": "아이콘 체인",
     "UtilizationRate": "가동률",
-    "DoNotSendToXrpVault": "오르빗 브릿지 주소로는 출금이 불가능합니다. 거래소/개인지갑 주소로만 출금 가능합니다.",
+    "DoNotSendToBridgeVault": "오르빗 브릿지 주소로는 출금이 불가능합니다. 거래소/개인지갑 주소로만 출금 가능합니다.",
     "BridgeCopyNoticeTitle": "{name}({symbol}) 입금 시 유의 사항을 다시 한번 확인해주세요!",
     "BridgeXrpCopyNotice1": "거래소에서 KLAYswap으로 리플 전송 시 반드시 <strong>데스티네이션 태그</strong>도 입력해야 합니다.",
     "BridgeXrpCopyNotice2": "다시 한번 <strong>입금주소</strong>와 <strong>데스티네이션 태그</strong>를 모두 입력했는지 확인해주세요.",
     "BridgeCommonCopySuccess": "복사 완료",
     "BridgeCommonCopyNotice1": "{name}({symbol}) 자산만 입금이 가능합니다. <strong>{klaytn} {name}({kSymbol})은 입금할 수 없습니다.</strong",
     "CopyNoticeConfirm": "확인했습니다",
-    "BridgeXrpWrongDestinationWarning": "블록체인 특성 상 입금주소, <strong>데스티네이션 태그 미입력 또는 오입력</strong>으로 인해 발생하는 자산 손실에 대해 <strong>복구가 불가능합니다.</strong>"
+    "BridgeXrpWrongDestinationWarning": "블록체인 특성 상 입금주소, <strong>데스티네이션 태그 미입력 또는 오입력</strong>으로 인해 발생하는 자산 손실에 대해 <strong>복구가 불가능합니다.</strong>",
+    "DefaultOrderOption": "정렬기준"
   },
   "Landing": {
     "PromotionTitle": "매초마다 불어나는 <br/>암호화폐 보상을 <br/>확인해보세요!",
