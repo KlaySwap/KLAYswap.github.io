@@ -419,7 +419,10 @@
     "SiteGuideSubTitle": "Is this your first time? ",
     "SiteGuideLinkLabel": "Read guide",
     "SiteGuideAboutDeposit": "How to deposit",
-    "SiteGuideAboutPoolVoting": "How to vote in pools"
+    "SiteGuideAboutPoolVoting": "How to vote in pools",
+    "LearnMore": "Learn more",
+    "AboutDepositDocs":	"Check <strong>reward in real-time</strong> from your <strong>deposited cryptocurrency</strong>",
+    "AboutStakingDocs":	"Participate in <strong>KSP staking</strong> and <strong>pool voting</strong> to earn <strong>additional reward</strong>."
   },
   "Asset": {
     "MyAsset": "My Assets",
@@ -523,7 +526,16 @@
     "BridgeCommonCopyNotice1": "Only deposit {name}({symbol}) assets to this address.  <strong>{klaytn} {name}({kSymbol}) cannot be deposited.</strong",
     "CopyNoticeConfirm": "Confirmed.",
     "BridgeXrpWrongDestinationWarning": "Due to the nature of blockchain, any loss of funds resulting from not entering/entering wrong Destination Tag cannot be recovered.",
-    "DefaultOrderOption": "Sort By"
+    "DefaultOrderOption": "Sort By",
+    "AboutRiskTitle": "Risk & Security",
+    "AboutRiskSubtitle": "In swapping assets through Liquidity Pool, there are certain risks.",
+    "AboutRiskItem1": "The amount of asset resulting from a swap may vary depending on the size of the swap, the available liquidity in the pool (ratio), and real-time deposits & withdrawal status.",
+    "AboutRiskItem2": "A loss may occur due to price impaction and/or price fluctuation, and may be deposited into the pool in an unpredictable ways.",
+    "AboutRiskItem3": "All values shown within the site are estimates, and are not guaranteed for up-to-date accuracy. ",
+    "AboutRiskItem4": "Please read additional information about KLAYswap below",
+    "ShowOurPolicy": "Risks of using KLAYswap",
+    "ConfirmOurPolicyTitle": "I have read all the information above and agree to using the service.",
+    "NeedConfirmOurPolicy":	"Please read all of risks involved before clicking \"Agree\""
   },
   "Landing": {
     "PromotionTitle": "Receive <br/ >cryptocurrency rewards <br />by the seconds! ",

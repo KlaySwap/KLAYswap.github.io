@@ -419,7 +419,10 @@
     "SiteGuideSubTitle": "처음이신가요?",
     "SiteGuideLinkLabel": "가이드 살펴보기 ",
     "SiteGuideAboutDeposit": "예치 가이드 ",
-    "SiteGuideAboutPoolVoting": "풀 투표 가이드"
+    "SiteGuideAboutPoolVoting": "풀 투표 가이드",
+    "LearnMore": "더 알아보기",
+    "AboutDepositDocs":	"암호화폐 <strong>예치 </strong>로 <strong>매초마다 불어나는 보상</strong>을 확인하세요",
+    "AboutStakingDocs":	"<strong>KSP 스테이킹</strong>과 <strong>풀 투표에</strong> 참여해 <strong>추가 보상</strong>을 획득하세요"
   },
   "Asset": {
     "MyAsset": "내 자산 ",
@@ -523,7 +526,16 @@
     "BridgeCommonCopyNotice1": "{name}({symbol}) 자산만 입금이 가능합니다. <strong>{klaytn} {name}({kSymbol})은 입금할 수 없습니다.</strong",
     "CopyNoticeConfirm": "확인했습니다",
     "BridgeXrpWrongDestinationWarning": "블록체인 특성 상 입금주소, <strong>데스티네이션 태그 미입력 또는 오입력</strong>으로 인해 발생하는 자산 손실에 대해 <strong>복구가 불가능합니다.</strong>",
-    "DefaultOrderOption": "정렬기준"
+    "DefaultOrderOption": "정렬기준",
+    "AboutRiskTitle": "Risk & Security",
+    "AboutRiskSubtitle": "유동성 풀에서 자산을 교환하거나 예치하는 경우, 가능한 위험요소가 존재합니다.",
+    "AboutRiskItem1": "자산 교환 시 건당 규모, 현재 풀에 대기중인 자산 수량(비율), 풀의 실시간 입출금 변동에 따라 사용자가 적용받는 자산 가격은 크게 변동할 수 있습니다.",
+    "AboutRiskItem2": "가격 변동으로 인해 사용자가 예상하지 못한 가격, 비율로 풀에 예치되거나 출금이 진행될 수 있으며, 풀에 예치한 시점의 가격과 크게 차이가 발생하는 경우 일반적으로 자산을 보유했을 때보다 손실이 발생할 수 있습니다.",
+    "AboutRiskItem3": "사이트 내에서 표시되는 모든 수치는 예상 정보로, 정보의 적시성, 적합성, 정확성을 보증하지 않습니다.",
+    "AboutRiskItem4":	"KLAYswap에 대한 자세한 내용은 아래 유의사항을 확인해주시기 바랍니다.",
+    "ShowOurPolicy":	"KLAYswap 이용 유의사항(필수)",
+    "ConfirmOurPolicyTitle": "위험 요소에 대해 충분히 이해하였으며, 이에 동의하고 서비스를 사용함을 확인합니다.",
+    "NeedConfirmOurPolicy":	"유의사항 확인 후 동의를 완료해주세요."
   },
   "Landing": {
     "PromotionTitle": "매초마다 불어나는 <br/>암호화폐 보상을 <br/>확인해보세요!",
