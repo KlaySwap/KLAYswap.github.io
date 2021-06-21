@@ -535,7 +535,8 @@
     "AboutRiskItem4":	"KLAYswap에 대한 자세한 내용은 아래 유의사항을 확인해주시기 바랍니다.",
     "ShowOurPolicy":	"KLAYswap 이용 유의사항(필수)",
     "ConfirmOurPolicyTitle": "위험 요소에 대해 충분히 이해하였으며, 이에 동의하고 서비스를 사용함을 확인합니다.",
-    "NeedConfirmOurPolicy":	"유의사항 확인 후 동의를 완료해주세요."
+    "NeedConfirmOurPolicy":	"유의사항 확인 후 동의를 완료해주세요.",
+    "DisableWarning": "7일간 보지 않기"
   },
   "Landing": {
     "PromotionTitle": "매초마다 불어나는 <br/>암호화폐 보상을 <br/>확인해보세요!",

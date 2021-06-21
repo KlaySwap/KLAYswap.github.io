@@ -535,7 +535,8 @@
     "AboutRiskItem4": "Please read additional information about KLAYswap below",
     "ShowOurPolicy": "Risks of using KLAYswap",
     "ConfirmOurPolicyTitle": "I have read all the information above and agree to using the service.",
-    "NeedConfirmOurPolicy":	"Please read all of risks involved before clicking \"Agree\""
+    "NeedConfirmOurPolicy":	"Please read all of risks involved before clicking \"Agree\"",
+    "DisableWarning": "Do not show this message for a week"
   },
   "Landing": {
     "PromotionTitle": "Receive <br/ >cryptocurrency rewards <br />by the seconds! ",
